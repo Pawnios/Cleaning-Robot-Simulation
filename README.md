@@ -68,9 +68,6 @@ Agent:
 •matplotlib: For rendering the environment (optional)
 
 
-# License
-
-This project is licensed under the Apache 2.0 open source license.
 
 # Acknowledgements
 
